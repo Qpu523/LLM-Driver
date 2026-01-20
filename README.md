@@ -86,7 +86,6 @@ The <strong>LLM-Driver framework</strong> shifts autonomous vehicle decision-mak
 
 <h2>📊 Results</h2>
 
-<p>Experiments were conducted in <strong>CARLA Town10HD</strong> using 112 intent classification scenarios and 200 safety evaluation scenarios.</p>
 
 <h3>Classification Performance (Ablation Study)</h3>
 <p><strong>Objective:</strong> The core task is <strong>Pedestrian Intent Prediction</strong>: classifying whether a pedestrian will <strong>Yield</strong> (safe) or <strong>Non-Yield</strong> (risk) to the vehicle. We evaluated this across <strong>112 scenarios</strong> to quantify the impact of each system component.</p>
