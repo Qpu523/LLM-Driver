@@ -175,12 +175,7 @@ The <strong>LLM-Driver framework</strong> shifts autonomous vehicle decision-mak
 <p>If you use this framework or methodology in your research, please cite the following paper:</p>
 
 <pre style="font-family: 'Times New Roman', Times, serif; background-color: #f6f8fa; padding: 16px; border-radius: 6px;">
-@article{pu2026llmdriver,
-  title={LLM-Driver: A Vision–Language–Enhanced Multimodal Reasoning Framework for Vehicle Simulation},
-  author={Pu, Qingwen and Xie, Kun and Liu, Yuxiang},
-  journal={Transportation Informatics Lab, Old Dominion University},
-  year={2026},
-  note={Under Review}
+@article{
 }
 </pre>
 
