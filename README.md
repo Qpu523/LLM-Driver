@@ -91,12 +91,6 @@ The <strong>LLM-Driver framework</strong> shifts autonomous vehicle decision-mak
 <h3>Classification Performance (Ablation Study)</h3>
 <p><strong>Objective:</strong> The core task is <strong>Pedestrian Intent Prediction</strong>: classifying whether a pedestrian will <strong>Yield</strong> (safe) or <strong>Non-Yield</strong> (risk) to the vehicle. We evaluated this across <strong>112 scenarios</strong> to quantify the impact of each system component.</p>
 
-<p><strong>Key Findings:</strong></p>
-<ul>
-    [cite_start]<li><strong>Multimodal Synergy:</strong> Integrating vision and kinematics (Zero-shot) boosts accuracy by <strong>10.0%</strong>, exceeding the sum of individual modality gains[cite: 210].</li>
-    [cite_start]<li><strong>Critical Safety:</strong> Adding real-world few-shot exemplars reduces the <strong>False Negative Rate</strong> (dangerous missed detections) by <strong>42%</strong> (from 10.2% to 5.9%)[cite: 211].</li>
-    [cite_start]<li><strong>Ambiguity Resolution:</strong> Real-world priors provide the largest accuracy gain (<strong>+7.1%</strong>) in high-complexity scenarios where general reasoning fails[cite: 218].</li>
-</ul>
 
 <table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; width: 100%; font-family: 'Times New Roman', Times, serif;">
     <thead>
